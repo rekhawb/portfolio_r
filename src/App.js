@@ -1,16 +1,11 @@
 import React from "react";
 
-import {useState} from 'react';
 import Nav from "./components/Nav";
-import About from "./components/About";
-import Projects from "./components/Projects";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact";
 
+import Footer from "./components/Footer";
 
-
-import logo from './logo.svg';
 import './App.css';
+
 
 
 
@@ -18,9 +13,14 @@ function App() {
   
 
   return (
+  <body class="h-full  bg-gradient-to-b from-blue-100 to-gray-300 m-5 p-5">
+    <div className="container  ">
    <main>
     <Nav  />
+    <Footer />
    </main>
+   </div>
+   </body>
   );
 }
 
