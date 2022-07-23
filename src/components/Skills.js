@@ -20,19 +20,19 @@ function Skills(props) {
             <p> Front End Technologies</p>
             <ul className="list-disc" >
 
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 HTML
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 CSS
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 JAVASCRIPT
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 REACT
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 GRAPHQL
 </li>
 </ul>
@@ -42,19 +42,19 @@ GRAPHQL
 <p> Back End Technologies</p>
             <ul className="list-disc" >
 
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 NODE
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 EXPRESS
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 SEQUELIZE
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 SQL
 </li>
-<li className="list-disc mr-5 ml-5 pr-5 pl-5">
+<li className="list-disc mr-5 ml-5 pr-5 pl-5 leading-10 text-lg">
 MONGODB
 </li>
 

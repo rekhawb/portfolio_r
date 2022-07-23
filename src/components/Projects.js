@@ -101,7 +101,7 @@ function Projects(props) {
             
           </div>
           </div>
-          <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
+          <div className="mb-4 mt-2 overflow-hidden  h-50 w-96">
           <img
             src="./images/project6.jpg"
             className="max-w-full h-auto rounded-full"
@@ -125,7 +125,7 @@ function Projects(props) {
           </div>
           </div>
 
-          <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
+          <div className="mb-4 mt-2 overflow-hidden  h-50 w-96">
           <img
             src="./images/project8.jpg"
             alt=""

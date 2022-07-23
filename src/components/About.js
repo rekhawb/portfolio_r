@@ -15,13 +15,13 @@ function About(props){
     <div className="rounded  shadow-lg  ">
           
           <div className="text-gray-900 font-bold text-xl mb-2">ABOUT ME</div>
-          <p className="text-gray-700 text-base leading-10"> Passionate full stack developer skilled in designing, developing and
+          <p className="text-gray-700 text-base leading-10 text-lg"> Passionate full stack developer skilled in designing, developing and
         testing multiple web based applications incorporating a range of
         technologies. </p>
-        <p className="text-gray-700 text-base leading-10">Experience in combining technology and design to create
+        <p className="text-gray-700 text-base leading-10 text-lg">Experience in combining technology and design to create
         easy-to-use websites for users. Producing, maintaining and modifying
         dynamic and interactive user interfaces. </p>
-        <p className="text-gray-700 text-base leading-10">Proven ability to use client
+        <p className="text-gray-700 text-base leading-10 text-lg">Proven ability to use client
         input to create functional , creative and user friendly web pages.
         Worked on fixing website issues or bugs that arise.</p>
         
