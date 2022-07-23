@@ -11,7 +11,7 @@ function Projects(props) {
         
         <div className="mb-4 mt-2 overflow-hidden  h-49 w-96">
           <img
-            src="/images/project1.jpg"
+            src="./images/project1.jpg"
             className="max-w-full h-auto rounded-full"
             alt=""
           />
@@ -34,7 +34,7 @@ function Projects(props) {
 
           <div className="mb-4 mt-2 h-55 w-96">
           <img
-            src="/images/project2.jpg"
+            src="./images/project2.jpg"
             className="max-w-full h-auto rounded-full"
             alt=""
           />
@@ -57,7 +57,7 @@ function Projects(props) {
           </div>
           <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
           <img
-            src="/images/project3.jpg"
+            src="./images/project3.jpg"
             className="max-w-full h-auto rounded-full"
             alt=""
           />
@@ -80,7 +80,7 @@ function Projects(props) {
           </div>
           <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
           <img
-            src="/images/project5.jpg"
+            src="./images/project5.jpg"
             className="max-w-full h-auto rounded-full"
             alt=""
           />
@@ -103,7 +103,7 @@ function Projects(props) {
           </div>
           <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
           <img
-            src="/images/project6.jpg"
+            src="./images/project6.jpg"
             className="max-w-full h-auto rounded-full"
             alt=""
           />
@@ -127,7 +127,7 @@ function Projects(props) {
 
           <div className="mb-4 mt-2 overflow-hidden  h-55 w-96">
           <img
-            src="/images/project8.jpg"
+            src="./images/project8.jpg"
             alt=""
             className="max-w-full h-auto rounded-full"
           />

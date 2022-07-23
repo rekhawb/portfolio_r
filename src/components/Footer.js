@@ -10,13 +10,13 @@ function Footer(){
             <ul className="list-disc inline-block" >
 
                 <li className="list-disc inline-block mr-5 ml-5 pr-5 pl-5">
-                <a href="https://github.com/rekhawb/Community-Connect"><FontAwesomeIcon icon={faLinkedin} /></a>
+                <a href="https://www.linkedin.com/in/chandra-rekha-renduchintala-7a4866234/"><FontAwesomeIcon icon={faLinkedin} /></a>
                 </li>
                 <li className="list-disc inline-block mr-5 ml-5 pr-5 pl-5">
                 <a href="https://github.com/rekhawb/Community-Connect"><FontAwesomeIcon icon={faGithub} /></a>
                 </li>
                 <li className="list-disc inline-block mr-5 ml-5 pr-5 pl-5">
-                <a href="https://github.com/rekhawb/Community-Connect"><FontAwesomeIcon icon={faStackOverflow} /></a>
+                <a href="https://stackoverflow.com/"><FontAwesomeIcon icon={faStackOverflow} /></a>
                 </li>
             </ul>
           

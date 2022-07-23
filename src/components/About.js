@@ -31,7 +31,7 @@ function About(props){
         
         <div className="rounded shadow-lg">
   <div className="text-gray-900 font-bold text-xl mb-2"></div>
- <img src="/images/avatar.png" alt="about me" />
+ <img src="./images/avatar.png" alt="about me" />
 </div>
 </div>
 
