@@ -63,9 +63,14 @@ function Contact(props) {
 
   if (props.display === "Contact") {
     return (
-      <div className="w-full max-w-xs">
-        <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-          <div className="mb-4">
+      <div className="w-full max-w-xs backdrop-grayscale">
+      <div>
+      <p className="leading-10 text-lg indent-8 tracking-wider text-blue-500">Contact#: 404-XXX-XXXX</p>
+      <p className="leading-10 text-lg indent-8 tracking-wider text-blue-500">Email: dte.rekha@gmail.com</p>
+      </div>
+      <div className="w-full max-w-xs backdrop-grayscale">
+        <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 backdrop-grayscale">
+          <div className="mb-4 backdrop-grayscale">
             <label
               class="block text-gray-700 text-sm font-bold mb-2"
               for="name"
@@ -130,6 +135,7 @@ function Contact(props) {
             </button>
           </div>
         </form>
+      </div>
       </div>
     );
   }

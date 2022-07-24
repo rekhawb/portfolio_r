@@ -7,7 +7,7 @@ import { faGithub} from '@fortawesome/free-brands-svg-icons';
 function Projects(props) {
   if (props.display === "Projects") {
     return (
-      <div className="grid grid-cols-3 gap-4 flex items-center pb-10">
+      <div className="grid grid-cols-3 gap-4 flex items-center pb-10 backdrop-grayscale">
         
         <div className="mb-4 mt-2 overflow-hidden  h-49 w-96">
           <img

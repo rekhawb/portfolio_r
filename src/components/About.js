@@ -8,23 +8,28 @@ function About(props){
    
     return (
        
-        <div className="container pb-10">
-        <div className="grid grid-cols-3 gap-4 flex items-center">
+        <div className="container pb-10 rounded-lg border-double">
+        <div className="grid grid-cols-2 gap-4 flex items-center backdrop-grayscale">
         
     
-    <div className="rounded  shadow-lg  ">
+    <div className="rounded  shadow-lg ">
           
-          <div className="text-gray-900 font-bold text-xl mb-2">ABOUT ME</div>
-          <p className="text-gray-700 text-base leading-10 text-lg"> Passionate full stack developer skilled in designing, developing and
+          <div className="text-gray-900 font-bold text-xl mb-2  text-teal-500 hover:text-blue-600 ">ABOUT ME</div>
+          <div className ="bg-white rounded-xl">
+          <p className="text-gray-700 text-base leading-10 text-2xl indent-8 tracking-wider text-teal-500 hover:text-blue-600  pb-5 mb-5"> Passionate full stack developer skilled in designing, developing and
         testing multiple web based applications incorporating a range of
         technologies. </p>
-        <p className="text-gray-700 text-base leading-10 text-lg">Experience in combining technology and design to create
+        </div>
+        <div className ="bg-white rounded-xl">
+        <p className="text-gray-700 text-base leading-10 text-2xl indent-8 tracking-wider text-teal-500 hover:text-blue-600 pb-5 mb-5"> Experience in combining technology and design to create
         easy-to-use websites for users. Producing, maintaining and modifying
         dynamic and interactive user interfaces. </p>
-        <p className="text-gray-700 text-base leading-10 text-lg">Proven ability to use client
+        </div>
+        <div className ="bg-white rounded-xl">
+        <p className="text-gray-700 text-base leading-10 text-2xl indent-8 tracking-wider text-teal-500 hover:text-blue-600"> Proven ability to use client
         input to create functional , creative and user friendly web pages.
         Worked on fixing website issues or bugs that arise.</p>
-        
+        </div>
         </div>
       
         
